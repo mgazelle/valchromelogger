@@ -16,7 +16,7 @@
         "illuminate/support": ">=4.0.0"        
     },
     "autoload": {
-        "psr-0": { "mgazelle\\valchromelogger\\": "src/" }
+        "psr-0": { "Mgazelle\\Valchromelogger\\": "src/" }
     },
     "extra": {
         "branch-alias": {
