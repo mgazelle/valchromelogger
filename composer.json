@@ -1,0 +1,23 @@
+{
+    "name": "mgazelle/valchromelogger",
+    "description": "Laravel Chrome Logger",
+    "homepage": "http://ranisict.com",
+    "keywords": ["laravel logger", "logger", "chrome", "chrome logger", "log console", "console"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mongi Gazelle",
+            "email": "mgazelle@ranisict.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "4.1.*",
+        "php": ">=5.4.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
