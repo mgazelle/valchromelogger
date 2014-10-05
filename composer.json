@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Laravel Chrome Logger",
     "homepage": "http://ranisict.com",
-    "keywords": ["laravel logger", "logger", "chrome", "chrome logger", "log console", "console", "mgazelle", "valchromelogger"],
+    "keywords": ["laravel logger", "logger", "chrome", "chrome logger", "log console", "console"],
     "license": "MIT",
     "authors": [
         {
