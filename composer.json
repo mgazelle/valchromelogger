@@ -1,5 +1,6 @@
 {
     "name": "mgazelle/valchromelogger",
+    "type": "library",
     "description": "Laravel Chrome Logger",
     "homepage": "http://ranisict.com",
     "keywords": ["laravel logger", "logger", "chrome", "chrome logger", "log console", "console", "mgazelle", "valchromelogger"],
@@ -11,7 +12,6 @@
         }
     ],
     "require": {
-        "laravel/framework": "4.1.*",
         "php": ">=5.4.0"
     },
     "autoload": {
