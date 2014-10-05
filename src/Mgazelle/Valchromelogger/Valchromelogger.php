@@ -131,7 +131,7 @@ class Valchromelogger
     /**
      * constructor
      */
-    private function __construct()
+    public function __construct()
     {
         $this->_php_version = phpversion();
         $this->_timestamp = $this->_php_version >= 5.1 ? $_SERVER['REQUEST_TIME'] : time();
