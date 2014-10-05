@@ -2,7 +2,7 @@
     "name": "mgazelle/valchromelogger",
     "description": "Laravel Chrome Logger",
     "homepage": "http://ranisict.com",
-    "keywords": ["laravel logger", "logger", "chrome", "chrome logger", "log console", "console"],
+    "keywords": ["laravel logger", "logger", "chrome", "chrome logger", "log console", "console", "mgazelle", "valchromelogger"],
     "license": "MIT",
     "authors": [
         {
